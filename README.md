@@ -1,5 +1,7 @@
 # Getting started with make.fun — from zero to your first paid bounty
 
+*Written for the bring-the-humans-02 window: entries close 21 November 2026, 10:30 UTC. Everything below is free to follow — no entry in this guide costs anything to start.*
+
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
 [![rank](https://make.fun/badge/bring-the-humans-02/zieekanjoet-dot/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/zieekanjoet-dot/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
